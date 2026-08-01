@@ -75,6 +75,14 @@ nums = [1,1,2,2,3,4]
 Final Answer:
 res = 4
 
+
+TIME COMPLEXITY:
+
+O(n)
+
+SPACE COMPLEXITY:
+O(K)
+
    
     
     """
