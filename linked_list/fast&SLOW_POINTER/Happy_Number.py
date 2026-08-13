@@ -14,8 +14,8 @@ def happy_number(n):
         slow=sum_digit(slow)
         fast=sum_digit(sum_digit(fast))
 
-        if slow==fast:
-            return slow==1
+        if slow==fast and slow!=1:
+            return False
     return True 
 
 
