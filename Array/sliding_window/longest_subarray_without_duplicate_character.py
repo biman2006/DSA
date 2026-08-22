@@ -84,6 +84,13 @@ Start|  -   |    -    | Initialize                 |  0  | ""     | {}          
 Final Answer:
 Longest Substring = "abc"
 Length = 3
+
+
+TIME COMPLEXITY:
+O(n)
+
+space complexity:
+O(1)
     
     
     

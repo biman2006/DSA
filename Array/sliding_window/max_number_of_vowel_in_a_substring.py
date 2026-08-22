@@ -4,12 +4,12 @@ def max_vowel_in_a_substring(s,k):
     count=0
     vowels={'a','e','i','o','u'}
 
-    for i in range(high):
+    for i in range(k):
         if s[i] in vowels:
             count+=1
     max_vowel=count 
 
-    while high<len(s):
+    while high<len(s)-1:
         if s[low] in vowels:
             count-=1
         low+=1

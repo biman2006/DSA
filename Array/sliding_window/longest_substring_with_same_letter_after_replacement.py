@@ -100,4 +100,13 @@ Final Answer = 4
 
 
 
+TIME COMPLEXITY:
+
+O(n)
+
+SPACE COMPLEXITY:
+O(1)
+
+
+
 """
